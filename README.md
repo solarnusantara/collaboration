@@ -1,1 +1,1 @@
-# collaboration
+# Collaboration for Offensive Security
